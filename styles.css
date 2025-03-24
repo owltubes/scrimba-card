@@ -15,11 +15,9 @@ body {
 }
 
 .avatar {
-    width: 100%;
+    width: 120px;
     border: 12px solid #ef6f6c;
     border-radius: 100px;
-    max-width: 120px;
-    height: fit-content;
 }
 
 .card {
